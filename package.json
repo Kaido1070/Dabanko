@@ -1,0 +1,12 @@
+{
+  "name": "dabanko-playwright-online-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Six-player online Playwright test for DABANKO",
+  "scripts": {
+    "test-online": "node six-player-test.js"
+  },
+  "dependencies": {
+    "playwright": "^1.56.0"
+  }
+}
